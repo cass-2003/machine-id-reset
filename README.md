@@ -8,9 +8,7 @@
 
 ### 直接下载 VSIX
 
-👉 **[点击下载最新版 machine-id-reset-1.0.1.vsix](https://github.com/cass-2003/machine-id-reset/releases/download/v1.0.1/machine-id-reset-1.0.1.vsix)**
-
-或前往 [Releases 页面](https://github.com/cass-2003/machine-id-reset/releases) 查看所有版本
+👉 **[点击下载最新版 machine-id-reset-1.0.1.vsix](https://raw.githubusercontent.com/cass-2003/machine-id-reset/main/machine-id-reset-1.0.1.vsix)**
 
 ### 安装方法
 
