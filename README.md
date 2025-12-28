@@ -10,6 +10,8 @@
 
 👉 **[点击下载最新版 machine-id-reset-1.0.1.vsix](https://raw.githubusercontent.com/cass-2003/machine-id-reset/main/machine-id-reset-1.0.1.vsix)**
 
+👉 **[点击下载最新版 windsurf-account-pool-1.0.0.vsix](https://raw.githubusercontent.com/cass-2003/machine-id-reset/main/windsurf-account-pool-1.0.0.vsix)**
+
 ### 安装方法
 
 在 Windsurf/VS Code 中：
