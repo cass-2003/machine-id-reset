@@ -10,7 +10,7 @@
 👉 **[点击下载 machine-id-reset-1.0.1.vsix](https://raw.githubusercontent.com/cass-2003/machine-id-reset/main/machine-id-reset-1.0.1.vsix)**
 
 ### 2. � 无感换号 (Account Switcher)
-�👉 **[点击下载 windsurf-account-pool-1.0.2.vsix](https://raw.githubusercontent.com/cass-2003/machine-id-reset/main/windsurf-account-pool-1.0.2.vsix)**
+�👉 **[点击下载 windsurf-account-pool-1.0.3.vsix](https://raw.githubusercontent.com/cass-2003/machine-id-reset/main/windsurf-account-pool-1.0.3.vsix)**
 
 ---
 
